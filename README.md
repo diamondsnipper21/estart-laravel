@@ -29,7 +29,7 @@
 ## Installation
 - Clone repository
 ```
-$ git clone https://github.com/updivision/estarter-ecommerce-for-laravel.git
+$ git clone https://github.com/diamondsnipper21/estart-laravel.git
 ```
 - Run in your terminal
 ```
